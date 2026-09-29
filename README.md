@@ -36,11 +36,11 @@ I am a Mechatronics Engineering student with a unique **"dual-competency" backgr
 
 ### 🔬 Core Technical Projects
 
-*   **[smart-environmental-pipeline](https://github.com/danbuildseng99/smart-environmental-pipeline):** Cloud-based mechatronic data pipeline integrating a virtual Arduino core with a Python diagnostic analytics engine.
-*   **[predictive-asset-condition-monitor](https://github.com/danbuildseng99/predictive-asset-condition-monitor):** Industry 4.0 application that integrates a virtual Arduino core with a Python anomaly detection engine.
-*   **[esp32-wireless-iot-gateway](https://github.com/danbuildseng99/esp32-wireless-iot-gateway):** Embedded systems application demonstrating wireless connectivity and sensor data routing.
-*   **[smart-renewable-microgrid-controller](https://github.com/danbuildseng99/smart-renewable-microgrid-controller):** Control systems project simulating and managing renewable energy inputs.
-*   **[smart-home-security-alarm](https://github.com/danbuildseng99/smart-home-security-alarm):** Entry-level embedded systems application demonstrating structural hardware routing and sensor logic processing.
+*   **[smart-environmental-pipeline](https://github.com/danbuildseng99/smart-environmental-pipeline):** A data pipeline project connecting a simulated Arduino hardware setup with a Python data logging and analysis script.
+*   **[predictive-asset-condition-monitor](https://github.com/danbuildseng99/predictive-asset-condition-monitor):** An Industry 4.0 simulation using Arduino and Python to monitor machine health and catch operating spikes before breakdowns happen.
+*   **[esp32-wireless-iot-gateway](https://github.com/danbuildseng99/esp32-wireless-iot-gateway):** An embedded systems project exploring how modern wireless chips (ESP32) send sensor data through the air without cables.
+*   **[smart-renewable-microgrid-controller](https://github.com/danbuildseng99/smart-renewable-microgrid-controller):** A control systems simulation in Python and Arduino that automatically manages changing green energy levels and handles grid power cuts.
+*   **[smart-home-security-alarm](https://github.com/danbuildseng99/smart-home-security-alarm):** My very first embedded circuit project, focusing on fundamental wiring layouts, sensor inputs, and basic code loops.
 
 #### 🏆 Highlights & Experience
 *   **🦾 Mechatronic Prototype (College):** Sensor-driven mechanical system integrating Arduino, C++, and custom-milled hardware for intelligent control.
