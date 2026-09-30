@@ -55,3 +55,4 @@ I am a Mechatronics Engineering student with a unique **"dual-competency" backgr
 *   **[BTEC Unit 19: Electronics](https://github.com/danbuildseng99/btec-unit19-electronics):** Academic assignment files, software simulations, and hardware testing portfolios for BTEC Level 3 Unit 19.
 *   **[BTEC Unit 2 & 41: Machining](https://github.com/danbuildseng99/btec-unit2-unit41-machining):** Precision mechanical design, CAD/CAM coursework, and practical machining components.
 *   **[Engineering Maths & Business](https://github.com/danbuildseng99/engineering-maths-and-business):** A comprehensive portfolio demonstrating numerical methods (Python), Activity-Based Costing (ABC), ISO 9001 Quality Management, and Value Engineering.
+*   - [CAD Designs](https://github.com/danbuildseng99/CAD-designs): 3D computer-aided design files showcasing precision engineering models and mechanical assemblies.
