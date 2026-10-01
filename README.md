@@ -5,7 +5,7 @@ I am a Mechatronics Engineering student with a unique **"dual-competency" backgr
 
 📍 **Location:** Birmingham, UK  
 📧 **Email:** danielboateng.eng@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/daniel-b-3668892b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+🔗 🔗 **LinkedIn:** [daniel-b-3668892b0](https://www.linkedin.com/in/daniel-b-3668892b0)
 
 
 ---
